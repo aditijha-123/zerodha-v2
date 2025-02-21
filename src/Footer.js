@@ -9,18 +9,7 @@ function Footer() {
    <img src='images/logo.svg' alt='logo' style={{width : "50%"}}/>
    <p>© 2010 - 2024, Zerodha Broking Ltd. <br/>
    All rights reserved.</p>
-   <div>
-   <a href='#' style={{marginRight:"20px",color:"#000",fontSize:"20px"}} className='text-muted' ><i class="fa-brands fa-x-twitter"></i></a>
-   <a href='#' style={{marginRight:"20px",color:"#000",fontSize:"20px"}}className='text-muted'><i class="fa-brands fa-square-facebook"></i></a>
-   <a href='#' style={{marginRight:"20px",color:"#000",fontSize:"20px"}}className='text-muted'><i class="fa-brands fa-instagram"></i></a>
-   <a href='#' style={{marginRight:"20px",color:"#000",fontSize:"20px"}} className='text-muted'><i class="fa-brands fa-linkedin-in"></i></a>
-   </div>
-   <div>
-   <br/>
-   <a href='#' style={{marginRight:"20px",color:"#000",fontSize:"20px"}} className='text-muted'><i class="fa-brands fa-youtube"></i></a>
-   <a href='#' style={{marginRight:"30px",color:"#000",fontSize:"20px"}} className='text-muted'><i class="fa-brands fa-whatsapp"></i></a>
-   <a href='#' style={{marginRight:"20px",color:"#000",fontSize:"20px"}} className='text-muted'><i class="fa-brands fa-telegram"></i></a>
-   </div>
+   
    </div>
    <div className="col">
    Company<br/>
