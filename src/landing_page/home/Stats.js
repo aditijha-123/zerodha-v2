@@ -17,10 +17,10 @@ function Stats (){
     </div>
     <div className='col-6 p-5'>
     <div className='row'>
-    <img src='images/ecosystem.png'/>
+    <img src='images/ecosystem.png' alt='eco'/>
     <div className='text-center'>
-    <a href='' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa-solid fa-arrow-right-long"></i></a>
-    <a href='' style={{textDecoration:"none"}}>Try Kite demo <i class="fa-solid fa-arrow-right-long"></i></a>
+    <span className='fake-link mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa-solid fa-arrow-right-long"></i></span>
+    <span  className='fake-link'  style={{textDecoration:"none"}}>Try Kite demo <i class="fa-solid fa-arrow-right-long"></i></span>
 </div>
     </div>
     </div>
